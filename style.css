@@ -1592,6 +1592,41 @@ details summary::-webkit-details-marker {
     line-height: 1.75rem;
   }
 }
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px; /* Increased spacing for better desktop layout */
+  padding: 20px;
+  /* background-color: white; Add a background for contrast */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+.button {
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+  font-weight: bold; /* Bold text for emphasis */
+}
+.login-button {
+  background-color: #007bff; /* Blue */
+  color: white;
+}
+.signup-button {
+  background-color: #6f42c1; /* Purple */
+  color: white;
+}
+.login-button:hover {
+  background-color: #0056b3; /* Darker blue */
+}
+.signup-button:hover {
+  background-color: #5a31a1; /* Darker purple */
+}
+
 @media (min-width: 768px) {
   .md\:p-4 {
     padding: 1rem;
