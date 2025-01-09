@@ -1,1 +1,1 @@
-this is a template for a VTU website, this is the frontend part you still need to find API to use 
+this is a template for a VTU website, this is the frontend part you still need to use a API for the functionality such as buy and receive the money 
