@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" fill="none" viewBox="0 0 68 68">
-  <rect width="64" height="64" x="2" y="2" fill="#CCCEFF" rx="32"/>
-  <rect width="40" height="10" x="14" y="18" fill="#151A20" opacity=".3" rx="1"/>
-  <path fill="#151A20" fill-rule="evenodd" d="M20 24v26a2 2 0 0 0 2 2h4V24h-6Zm12 0v28h14a2 2 0 0 0 2-2V24H32Z" clip-rule="evenodd"/>
-  <rect width="64" height="64" x="2" y="2" stroke="#D0C2E9" stroke-width="4" rx="32"/>
-</svg>
