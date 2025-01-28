@@ -1,25 +1,4 @@
-import {
-  a as r,
-  o as n,
-  b as c,
-  e as t,
-  f as i,
-  w as a,
-  h as o,
-  t as l,
-  i as m,
-  j as u,
-  k as b,
-} from "./entry.c7e512db.js";
-import { u as g } from "./composables.06a55fbc.js";
-import { _ as f, a as v, b as y } from "./close-icon.40aa5af9.js";
-import { _ as h } from "./nigeria_flag.1e9fa985.js";
-import { _ as w, a as x } from "./play-store-purple.6cb5852d.js";
-import { _ as A, a as C, b as T, c as F } from "./facebook-icon.ec83f23e.js";
-const N = { class: "page_hero", style: { height: "65rem" } },
-  V = { class: "container" },
-  P = { class: "header" },
-  z = t("img", { src: f, alt: "logo" }, null, -1),
+, { src: f, alt: "logo" }, null, -1),
   B = { class: "menu" },
   D = t("a", { href: "/#features", class: "menu_link" }, " Features", -1),
   j = { class: "options" },
