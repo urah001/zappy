@@ -4,16 +4,6 @@
   j = { class: "options" },
   q = t("div", { class: "country" }, [t("img", { src: h, alt: "" })], -1),
     '<div class="app-button"><a href="http://onelink.to/ray6xm"><img src="' +
-    '<div class="country"><img src="' +
-      h +
-      '" alt=""><a href="https://twitter.com/zappy_ng"><img src="' +
-      A +
-      '" alt=""></a><a href="https://www.linkedin.com/company/zappy-technology-ltd/"><img src="' +
-      C +
-      '" alt=""></a><a href="https://instagram.com/zappy_nigeria"><img src="' +
-      T +
-      '" alt=""></a><a href="https://www.facebook.com/profile.php?id=100087556592608"><img src="' +
-      F +
       '" alt=""></a></div>',
     1
   ),
