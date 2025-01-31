@@ -1,12 +1,5 @@
 , { src: f, alt: "logo" }, null, -1),
-  B = { class: "menu" },
-  D = t("a", { href: "/#features", class: "menu_link" }, " Features", -1),
-  j = { class: "options" },
-  q = t("div", { class: "country" }, [t("img", { src: h, alt: "" })], -1),
-    '<div class="app-button"><a href="http://onelink.to/ray6xm"><img src="' +
-      '" alt=""></a></div>',
-    1
-  ),
+  
   qt = { class: "footer_bottom" },
   Ht = { class: "footer_description" },
   Qt = { class: "footer_link_wrapper" },
