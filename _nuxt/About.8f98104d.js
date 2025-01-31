@@ -4,19 +4,6 @@
   j = { class: "options" },
   q = t("div", { class: "country" }, [t("img", { src: h, alt: "" })], -1),
     '<div class="app-button"><a href="http://onelink.to/ray6xm"><img src="' +
-      w +
-      '" alt=""></a><a href="http://onelink.to/ray6xm"><img src="' +
-      x +
-      '" alt=""></a></div>',
-    1
-  ),
-  Nt = t("div", { class: "image" }, null, -1),
-  Vt = { class: "footer" },
-  Pt = { class: "container" },
-  zt = { class: "footer_top" },
-  Bt = { class: "logo" },
-  Dt = ["src", "alt", "title"],
-  jt = u(
     '<div class="country"><img src="' +
       h +
       '" alt=""><a href="https://twitter.com/zappy_ng"><img src="' +
