@@ -1,16 +1,3 @@
-, { src: f, alt: "logo" }, null, -1),
-  
-  qt = { class: "footer_bottom" },
-  Ht = { class: "footer_description" },
-  Qt = { class: "footer_link_wrapper" },
-  St = t("h3", null, "Company", -1),
-  Ut = { class: "footer_link_item" },
-  Lt = { class: "footer_link_wrapper" },
-  Rt = t("h3", null, "Legal", -1),
-  Zt = { class: "footer_link_item" },
-  Et = { class: "footer_copyright" },
-  Gt = t("br", null, null, -1),
-  Xt = r({
     __name: "About",
     props: { blok: { type: Object, default: () => ({}) } },
     setup(e) {
