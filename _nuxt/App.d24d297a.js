@@ -12,9 +12,6 @@ import { _ as o, a as s } from "./play-store-purple.6cb5852d.js";
         l("div", r, [
           t("div", p, [
             t("span", null, e(a.blok.title), 1),
-            t("h3", null, e(a.blok.description), 1),
-            d,
-          ]),
-          _,
+            t("h3", null, e(a.
         ])
 
