@@ -5,9 +5,7 @@ import { _ as o, a as s } from "./play-store-purple.6cb5852d.js";
       s +
       '" alt=""></a></div>',
     1
-  ),
-
-      return (m, h) => (
+  
         i(),
         l("div", r, [
           t("div", p, [
