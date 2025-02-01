@@ -1,15 +1,4 @@
 import { _ as o, a as s } from "./play-store-purple.6cb5852d.js";
-import {
-  a as n,
-  o as i,
-  b as l,
-  e as t,
-  t as e,
-  j as c,
-} from "./entry.c7e512db.js";
-const r = { class: "app-download" },
-  p = { class: "content" },
-  d = c(
     '<div class="app-button"><a href="http://onelink.to/ray6xm"><img src="' +
       o +
       '" alt=""></a><a href="http://onelink.to/ray6xm"><img src="' +
