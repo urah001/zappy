@@ -6,11 +6,7 @@ import { _ as o, a as s } from "./play-store-purple.6cb5852d.js";
       '" alt=""></a></div>',
     1
   ),
-  _ = t("div", { class: "image" }, null, -1),
-  k = n({
-    __name: "App",
-    props: { blok: { type: Object, default: () => ({}) } },
-    setup(a) {
+
       return (m, h) => (
         i(),
         l("div", r, [
