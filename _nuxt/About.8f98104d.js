@@ -1,17 +1,5 @@
     __name: "About",
-    props: { blok: { type: Object, default: () => ({}) } },
-    setup(e) {
-      return (
-        g({
-          title: "About Zappy - Future of Digital Banking",
-          meta: [
-            {
-              name: "description",
-              content:
-                "Discover Zappy's journey to revolutionizing digital banking in Nigeria. Learn about our mission, vision, and commitment to providing seamless financial services.",
-            },
-          ],
-        }),
+    
         (_, d) => {
           const s = b;
           return (
