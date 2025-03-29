@@ -1,32 +1,4 @@
-    __name: "About",
-    
-        (_, d) => {
-          const s = b;
-          return (
-            n(),
-            c("div", null, [
-              t("section", N, [
-                t("div", V, [
-                  t("div", null, [
-                    t("div", P, [
-                      i(
-                        s,
-                        { to: "/", class: "logo" },
-                        { default: a(() => [z]), _: 1 }
-                      ),
-                      t("div", B, [
-                        i(
-                          s,
-                          { to: "/", class: "menu_link" },
-                          { default: a(() => [o("Home")]), _: 1 }
-                        ),
-                        i(
-                          s,
-                          { to: "/airtime-to-cash", class: "menu_link" },
-                          { default: a(() => [o("Airtime to Cash")]), _: 1 }
-                        ),
-                        D,
-                        i(
+    __name
                           s,
                           { to: "/about", class: "menu_link" },
                           { default: a(() => [o("About Us")]), _: 1 }
