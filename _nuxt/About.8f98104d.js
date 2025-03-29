@@ -2,7 +2,7 @@
                         
                 
                           { default: a(() => [o("About Us")]), _: 1 }
-                        ),
+               
                         i(
                           s,
                           { to: "/faq", class: "menu_link" },
