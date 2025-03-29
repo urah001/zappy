@@ -1,6 +1,6 @@
 
-                          s,
-                          { to: "/about", class: "menu_link" },
+                        
+                
                           { default: a(() => [o("About Us")]), _: 1 }
                         ),
                         i(
