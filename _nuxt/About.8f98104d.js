@@ -1,6 +1,4 @@
 
-                          s,
-                          { to: "/faq", class: "menu_link" },
                           { default: a(() => [o("FAQs")]), _: 1 }
                         ),
                         i(
