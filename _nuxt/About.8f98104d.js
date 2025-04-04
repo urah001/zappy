@@ -1,9 +1,6 @@
 
                           
-                        ),
-                        i(
-                          s,
-                          { to: "/terms-and-condition", class: "menu_link" },
+                      
                           { default: a(() => [o("Terms")]), _: 1 }
                         ),
                       ]),
