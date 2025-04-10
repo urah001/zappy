@@ -4,7 +4,7 @@
                           { default: a(() => [o("Terms")]), _: 1 }
                         ),
                       ]),
-                      t("div", j, [
+                      
                         q,
                         H,
                         i(
