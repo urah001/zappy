@@ -1,4 +1,4 @@
-                            to: "http://onelink.to/ray6xm",
+                            
                             class: "primary-btn hide-mobile",
                           },
                           { default: a(() => [o("Get Started")]), _: 1 }
