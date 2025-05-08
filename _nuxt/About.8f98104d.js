@@ -1,5 +1,3 @@
-    s,
-                          {
                             to: "http://onelink.to/ray6xm",
                             class: "primary-btn hide-mobile",
                           },
