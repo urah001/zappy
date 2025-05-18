@@ -10,7 +10,7 @@ const r = "" + new URL("nigeria_circle.c70f113c.svg", import.meta.url).href,
   m = "" + new URL("united-states_circle.031cd429.svg", import.meta.url).href,
   d = "" + new URL("USD_image.4f06ab84.svg", import.meta.url).href,
   _ = "" + new URL("NGN_image.3dcd16d9.svg", import.meta.url).href,
-  g = { class: "virtual-card" },
+  g = { class: "
   h = { class: "content" },
   u = t(
     "span",
