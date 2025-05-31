@@ -1,5 +1,5 @@
 class: "primary-btn hide-mobile",
-                          }
+                        
                           { default: a(() => [o("Get Started")]), _: 1 }
                     ]),
                     t("dialog", Q, [
