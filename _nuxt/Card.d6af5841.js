@@ -1,8 +1,3 @@
-import {
-  e as t,
- 
-  i,
-} from "./entry.c7e512db.js";
 const r = "" + new URL("nigeria_circle.c70f113c.svg", import.meta.url).href,
   n = "" + new URL("vector.b68a3a8d.svg", import.meta.url).href,
   m = "" + new URL("united-states_circle.031cd429.svg", import.meta.url).href,
